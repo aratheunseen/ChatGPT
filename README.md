@@ -3,17 +3,17 @@
 ChatGPT (Generative Pre-trained Transformer) is a chatbot launched by OpenAI in November 2022. It is built on top of OpenAI's GPT-3.5 family of large language models, and is fine-tuned with both supervised and reinforcement learning techniques.
 
 ## Screenshots
-![1](https://user-images.githubusercontent.com/62181222/209953421-d2155e4f-41c6-4803-be94-2a37cb4cc2f6.jpg)
+![App Icon](https://user-images.githubusercontent.com/62181222/209953421-d2155e4f-41c6-4803-be94-2a37cb4cc2f6.jpg)
 
-![2](https://user-images.githubusercontent.com/62181222/209953414-ccbd5af6-405d-476e-a493-e624027ed1a8.jpg)
+![Homepage](https://user-images.githubusercontent.com/62181222/209953414-ccbd5af6-405d-476e-a493-e624027ed1a8.jpg)
 
-![3](https://user-images.githubusercontent.com/62181222/209953407-54df55fb-2a4a-441d-a1dc-49788fe7bb6a.jpg)
+![Homepage With Keyboard](https://user-images.githubusercontent.com/62181222/209953407-54df55fb-2a4a-441d-a1dc-49788fe7bb6a.jpg)
 
-![4](https://user-images.githubusercontent.com/62181222/209953426-5206e5d5-320d-49b1-aaf3-8a8376e345f5.jpg)
+![Answer Page](https://user-images.githubusercontent.com/62181222/209953426-5206e5d5-320d-49b1-aaf3-8a8376e345f5.jpg)
 
-![5](https://user-images.githubusercontent.com/62181222/209953423-5780b592-f767-414b-86dd-4d49f6d0cec9.jpg)
+![App Drawer](https://user-images.githubusercontent.com/62181222/209953423-5780b592-f767-414b-86dd-4d49f6d0cec9.jpg)
 
-## Getting Started
+## New to Flutter? Getting Started
 
 This project is a starting point for a Flutter application.
 
