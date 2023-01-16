@@ -4,7 +4,7 @@ ChatGPT (Generative Pre-trained Transformer) is a chatbot launched by OpenAI in 
 
 Install this app from Github Release [[Click here to Download]](https://github.com/aratheunseen/chatgpt-flutter-webview/releases/download/android/ChatGPT-android.apk).
 
-## screenshots
+## Screenshots
 
 <table>
   <tr>
