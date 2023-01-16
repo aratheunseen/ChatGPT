@@ -10,7 +10,7 @@ Install this app from Github Release [[Click here to Download]](https://github.c
   <tr>
     <th>App Icon</th>
     <th>Homepage</th>
-    <th>Homepage With Keyboard</th>
+    <th>With Keyboard</th>
     <th>Answer Page</th>
     <th>App Drawer</th>
   </tr>
