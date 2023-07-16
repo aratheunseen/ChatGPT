@@ -2,7 +2,7 @@
 
 ChatGPT (Generative Pre-trained Transformer) is a chatbot launched by OpenAI in November 2022. It is built on top of OpenAI's GPT-3.5 family of large language models, and is fine-tuned with both supervised and reinforcement learning techniques.
 
-Install this app from Github Release [[Click here to Download]](https://github.com/aratheunseen/chatgpt-app/releases/download/android/ChatGPT-android.apk).
+Install this app from Github Release [[Click here to Download]](https://github.com/aratheunseen/ChatGPT-app/releases/download/v1.0.0%2B1/ChatGPT-v1.0.0.apk).
 
 ![ChatGPT](https://img.shields.io/github/downloads/aratheunseen/chatgpt-app/total?color=%23092&label=Total%20Downloads&logo=android)
 
